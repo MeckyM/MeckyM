@@ -9,9 +9,9 @@
 🔎 As áreas que mais me interessam atualmente são: desenvolvedor backend, desenvolvedor frontend e analista de qualidade.
 ---
 
-### Eu já utilizei... 🔧
+### Eu já utilizei... 🔧 
 
-**Tecnologias e Ferramentas**
+<h2>Tecnologias e Ferramentas</h2> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### Entre em contato comigo! 📭
+<h2> Entre em contato comigo! 📭 </h2>
 <table align="center">
 <tr>
 <td>
