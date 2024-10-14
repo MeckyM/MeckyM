@@ -27,18 +27,20 @@
 ---
 
 ### GitHub Stats ⚡
-<div>
+<div style="align=center">
+<a href="https://github.com/KevinSGuimaraes">
+  <img width="425em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+</a>
 
 <a href="https://github.com/KevinSGuimaraes">
-  <img width="600em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
 </a>
-<br/>
+</div>
+
+</br>
+<div>
 <a href="https://github.com/KevinSGuimaraes">
-  <img width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
-</a>
-<br/>
-<a href="https://github.com/KevinSGuimaraes">
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
 
@@ -46,13 +48,11 @@
 
 ### Entre em contato comigo! 📭
 <div>
-<!-- linkedin -->
-<a href="https://www.linkedin.com/in/davi-machado-carvalho-656851251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"><a>
+  <a href="https://www.linkedin.com/in/davi-machado-carvalho-656851251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"><a>
 
-<!-- insta -->
-<a href="https://www.instagram.com/d_machado08/?next=%2F target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/d_machado08/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<!-- gmail -->
-<a href="mailto:davi.carmac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=redmailto:SEUGMAIL" target="_blank"></a>
+   <a href="mailto:davi.carmac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=redmailto:SEUGMAIL" target="_blank"></a>
 </div>
----
+
+
