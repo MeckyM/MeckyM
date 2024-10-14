@@ -34,7 +34,7 @@
 ---
 
 ### Entre em contato comigo! 📭
-<div>
+<div style="float:left;">
   <a href="https://www.linkedin.com/in/davi-machado-carvalho-656851251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"><a>
 
   <a href="https://www.instagram.com/d_machado08/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
