@@ -25,21 +25,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-<div>
-<a href="https://github.com/MeckyM">
-  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/MeckyM">
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
-</a>
-</div>
-
-</br>
 <div align="center">
-<a href="https://github.com/MeckyM">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</a>
 </div>
 
 ---
