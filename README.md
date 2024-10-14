@@ -27,19 +27,19 @@
 ---
 
 ### GitHub Stats ⚡
-<div style="align=center">
-<a href="https://github.com/KevinSGuimaraes">
+<div style="text-align:center; display:flex;">
+<a href="https://github.com/MeckyM">
   <img width="425em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/KevinSGuimaraes">
+<a href="https://github.com/MeckyM">
   <img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
 </a>
 </div>
 
 </br>
 <div>
-<a href="https://github.com/KevinSGuimaraes">
+<a href="https://github.com/MeckyM">
   <img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
