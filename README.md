@@ -25,9 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### GitHub Stats ⚡
-<div style="text-align:center; display:flex;">
+<div style="align:center; display:flex;">
 <a href="https://github.com/MeckyM">
   <img width="425em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </a>
