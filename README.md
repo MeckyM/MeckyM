@@ -27,7 +27,7 @@
 ---
 <div>
 <a href="https://github.com/MeckyM">
-  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/MeckyM">
