@@ -27,11 +27,11 @@
 ---
 <div>
 <a href="https://github.com/MeckyM">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/MeckyM">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
 </a>
 </div>
 
