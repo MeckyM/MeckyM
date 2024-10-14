@@ -1,17 +1,17 @@
-# Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git!
+<h2 align="center"> Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git! </h2>
 
-### Sobre mim
+<h2 align="center"> Sobre mim </h2>
 
 🐒 • Atualmente, estou em busca de oportunidades profissionais na área de programação, motivado pela minha paixão pela tecnologia. Desejo explorar diversas áreas da profissão, com o objetivo de aprimorar minhas habilidades e alinhar-me às demandas do mercado de trabalho.
 
-🎓 Cursando Técinco em Análise e Desenvolvimento de Sistemas na instituição de ensino @ [Sistema FIEP/SESI/SENAI/IEL - Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos).
+🎓 • Cursando Técinco em Análise e Desenvolvimento de Sistemas na instituição de ensino @ [Sistema FIEP/SESI/SENAI/IEL - Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos).
 
-🔎 As áreas que mais me interessam atualmente são: desenvolvedor backend, desenvolvedor frontend e analista de qualidade.
+🔎 • As áreas que mais me interessam atualmente são: desenvolvedor backend, desenvolvedor frontend e analista de qualidade.
 ---
 
-### Eu já utilizei... 🔧 
+<h1 align="center"> Eu já utilizei... 🔧 </h1>
 
-<h2>Tecnologias e Ferramentas</h2> 
+<h2 align="center">Tecnologias e Ferramentas</h2> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-<h2> Entre em contato comigo! 📭 </h2>
+<h2 align="center"> Entre em contato comigo! 📭 </h2>
 <table align="center">
 <tr>
 <td>
