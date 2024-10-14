@@ -1,6 +1,6 @@
 ## Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git!
 
-<img src="./src/giphy.webp"/>
+<img align="center" src="./src/giphy.webp"/>
 ### Sobre mim
 
 🐒 • Atualmente, estou em busca de oportunidades profissionais na área de programação, motivado pela minha paixão pela tecnologia. Desejo explorar diversas áreas da profissão, com o objetivo de aprimorar minhas habilidades e alinhar-me às demandas do mercado de trabalho.
