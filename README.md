@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-<div style="align:center; display:flex;">
+<div align="center">
 <a href="https://github.com/MeckyM">
   <img width="425em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
 </a>
@@ -38,7 +38,7 @@
 </br>
 <div>
 <a href="https://github.com/MeckyM">
-  <img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="850em" height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
 
