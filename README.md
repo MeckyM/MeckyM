@@ -39,7 +39,6 @@
 
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&hide_border=true&background=202124&stroke=FF9F45&ring=FF6F3C&fire=FF9F45&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF9F45&sideLabels=E0E0E0&dates=E0E0E0"/>
 
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/> 
 </div>
 
 ---
