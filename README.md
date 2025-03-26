@@ -35,13 +35,13 @@
 
 ---
 <div align="center">
-  <img width="423em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&show_icons=true&hide_border=true&count_private=true&title_color=FF9F45&text_color=E0E0E0&icon_color=FF6F3C&bg_color=202124"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&show_icons=true&hide_border=true&count_private=true&title_color=FF9F45&text_color=E0E0E0&icon_color=FF6F3C&bg_color=202124"/>
 
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&hide_border=true&background=202124&stroke=FF9F45&ring=FF6F3C&fire=FF9F45&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF9F45&sideLabels=E0E0E0&dates=E0E0E0"/>
+  <img width="480em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&hide_border=true&background=202124&stroke=FF9F45&ring=FF6F3C&fire=FF9F45&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF9F45&sideLabels=E0E0E0&dates=E0E0E0"/>
 
 <div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="display: inline-block; width: 100%; max-width: 600px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 87%; height: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 92%; height: auto;">
 </a>
 </div>
 
