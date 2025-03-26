@@ -1,7 +1,7 @@
 ## Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git!
 
 <div align=center>
-<img src="./src/giphy.webp"/>
+<img src="./src/giphy.webp"/ style="border-radius: 5px;">
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 🐒 • Atualmente, estou em busca de oportunidades profissionais na área de programação, motivado pela minha paixão pela tecnologia. Desejo explorar diversas áreas da profissão, com o objetivo de aprimorar minhas habilidades e alinhar-me às demandas do mercado de trabalho.
 
-🎓 • Cursando Técinco em Análise e Desenvolvimento de Sistemas na instituição de ensino [Sistema FIEP/SESI/SENAI/IEL - Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos).
+🎓 • Técinco em Análise e Desenvolvimento de Sistemas na instituição de ensino [Sistema FIEP/SESI/SENAI/IEL - Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos).
 
 🔎 • As áreas que mais me interessam atualmente são: desenvolvedor backend, desenvolvedor frontend e analista de qualidade.
 
