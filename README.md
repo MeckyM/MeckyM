@@ -37,7 +37,7 @@
 <div align="center">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&show_icons=true&hide_border=true&count_private=true&title_color=FF9F45&text_color=E0E0E0&icon_color=FF6F3C&bg_color=202124"/>
 
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=dark&hide_border=true"/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
 
 
 </div>
