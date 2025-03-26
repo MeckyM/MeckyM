@@ -41,7 +41,7 @@
 
 <div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="display: inline-block; width: 100%; max-width: 600px; ">
-  <img style="border-radius: 12px;" src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 98%; height: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 98%; height: auto;">
 </a>
 </div>
 
