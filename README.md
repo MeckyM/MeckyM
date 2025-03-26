@@ -45,6 +45,16 @@
 </a>
 </div>
 
+<div align="center" style="width: 92%; max-width: 600px; border-radius: 12px; overflow: hidden;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" 
+      alt="GitHub Activity Graph" 
+      style="width: 100%; height: auto; display: block;"
+    >
+  </a>
+</div>
+
 ---
 
 <h2 align=center> Entre em contato comigo! 📭 </h2>
