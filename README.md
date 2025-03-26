@@ -1,7 +1,7 @@
 ## Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git!
 
 <div align=center>
-<img src="./src/giphy.webp"/ style="border-radius: 5px;">
+<img src="./src/giphy.webp"/ style="border-radius: 20px;">
 </div>
 
 ---
