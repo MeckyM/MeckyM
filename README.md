@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#634ce6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3b2e85&height=120&section=header"/>
 
 ## Opa, meu nome é Davi Machado Carvalho, seja bem vindo ao meu Git!
 
