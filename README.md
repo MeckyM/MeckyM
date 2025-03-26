@@ -40,7 +40,7 @@
   <img width="477em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&hide_border=true&background=202124&stroke=FF9F45&ring=FF6F3C&fire=FF9F45&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF9F45&sideLabels=E0E0E0&dates=E0E0E0"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
