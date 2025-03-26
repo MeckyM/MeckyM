@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ededed&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+git+🦊)](https://git.io/typing-svg) 
 
 <div align=center>
-<img src="./src/giphy.webp">
+<!-- <img src="./src/giphy.webp"> -->
 </div>
 
 ---
@@ -35,9 +35,10 @@
 
 ---
 <div align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=midnight-purple&hide_border=true"/>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MeckyM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&theme=tokyonight&hide_border=true"/>
+
+<!--   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeckyM&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/> -->
 </div>
 
 ---
