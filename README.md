@@ -1,3 +1,4 @@
+![Fundo Laranja](https://via.placeholder.com/1200x400/F26B1D/FFFFFF?text=Bem+Vindo+ao+Meu+Git+🦊)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1abd1a&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+git+🦊)](https://git.io/typing-svg) 
