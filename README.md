@@ -1,5 +1,5 @@
-<section style="background-color:#F26B1D; padding: 20px; border-radius: 15px;">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
+<img src="https://via.placeholder.com/1000x200/F26B1D/FFFFFF?text=Bem+vindo+ao+meu+Git+🦊" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1abd1a&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+git+🦊)](https://git.io/typing-svg) 
 
@@ -63,4 +63,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renancassi/renancassi/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renancassi/renancassi/output/github-contribution-grid-snake.svg">
 </picture>
-</section>
