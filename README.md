@@ -40,9 +40,9 @@
   <img width="477em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeckyM&hide_border=true&background=202124&stroke=FF9F45&ring=FF6F3C&fire=FF9F45&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF9F45&sideLabels=E0E0E0&dates=E0E0E0"/>
 </div>
 
-<div align="center" hide_border=true>
+<div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="display: inline-block; width: 100%; max-width: 600px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 92%; height: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeckyM&hide_border=true&bg_color=202124&color=E0E0E0&line=FF9F45&point=FF6F3C&area=true&hide_border=true&height=300" alt="GitHub Activity Graph" style="width: 92%; height: auto;">
 </a>
 </div>
 
